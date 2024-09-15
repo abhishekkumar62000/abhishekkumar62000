@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar62000&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar62000" /> </p>
 
-<p align="left"> <a href="https://www.kaggle.com/abhiyadav6222" target="blank"><img src="https://img.shields.io/twitter/follow/abhiyadav6222?logo=twitter&style=for-the-badge" alt="https://x.com/AbhiYadav4723" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/abhishek-kumar-70a69829a" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek-kumar-70a69829a?logo=twitter&style=for-the-badge" alt="https://x.com/AbhiYadav4723" /></a> </p>
 - 🔭 I’m currently working on **Generative AI**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, NPL, Computer vision **
