@@ -1,7 +1,7 @@
 <img src="./Data.jpg" /> 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h1 align="center">Top Data Science Voice at Linkedln</h1>
-<h3 align="center">A passionate Data Science, Data Analytics, Enthusiast from India</h3>
+<h3 align="center">A Passionate Data Science, Data Analytics, Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 
