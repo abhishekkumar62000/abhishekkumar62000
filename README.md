@@ -1,4 +1,4 @@
-[![MasterHead](https://th-i.thgim.com/public/incoming/u7j8cp/article66426888.ece/alternates/FREE_1200/Lead%20image.jpg)]
+<img src="./Data.jpg" /> 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h1 align="center">Top Data Science Voice at Linkedln</h1>
 <h3 align="center">A passionate Data Science, Data Analytics, Enthusiast from India</h3>
