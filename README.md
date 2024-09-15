@@ -1,6 +1,7 @@
 [![MasterHead](https://th-i.thgim.com/public/incoming/u7j8cp/article66426888.ece/alternates/FREE_1200/Lead%20image.jpg)]
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate Data Science Enthusiast from India</h3>
+<h1 align="center">Top Data Science Voice at Linkedln</h1>
+<h3 align="center">A passionate Data Science, Data Analytics, Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 
@@ -8,15 +9,15 @@
 
 <p align="left"> <a href="https://x.com/kaibiswal18" target="blank"><img src="https://img.shields.io/twitter/follow/kai.biswal?logo=twitter&style=for-the-badge" alt="kai.biswal" /></a> </p>
 
-- 🔭 I’m currently working on **Model Deployment**
+- 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, NPL, Computer vision **
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekkumar62000/](https://github.com/abhishekkumar62000/)
 
-- 💬 Ask me about **Data Science, Data analytics, Data visualization,Machine Learning, Python, SQL, Tableau, Statistics**
+- 💬 Ask me about **Data Science, Data analytics, Machine Learning, Deep Learning, Data visualization:- Power BI, Tableau,Python, SQL, Statistics**
 
-- 📫 How to reach me **kaibalyabiswal18@gmail.com**
+- 📫 How to reach me **abhiydv23096@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
