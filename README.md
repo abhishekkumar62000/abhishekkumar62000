@@ -4,6 +4,8 @@
 <h3 align="center">A Passionate Data Science, Data Analytics, Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar62000&theme=react-dark&hide_border=true&area=true) <hr>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar62000&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar62000" /> </p>
 
