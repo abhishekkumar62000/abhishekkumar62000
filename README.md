@@ -1,7 +1,7 @@
 <img src="./Data.jpg" /> 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h1 align="center">Top Data Science Voice at Linkedln</h1>
-<h3 align="center">A Passionate Data Science, Data Analytics, Enthusiast from India</h3>
+<h3 align="center">A Passionate Data Science, Data Analytics, Enthusiast from Bihar,India</h3>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar62000&theme=react-dark&hide_border=true&area=true) <hr>
 
