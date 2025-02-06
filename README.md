@@ -21,6 +21,45 @@
 
 - 📫 How to reach me **abhiydv23096@gmail.com**
 
+Abhishek Yadav – Aspiring Data Scientist
+
+Transforming Data into Actionable Insights & AI-Powered Solutions
+
+🚀 About Me
+
+I am an Aspiring Data Scientist passionate about uncovering insights from complex datasets, solving intricate problems, and driving impactful decisions through data-driven analysis & AI solutions. My expertise spans machine learning, deep learning, and generative AI, enabling businesses to leverage data for growth and innovation.
+
+🛠 Skills & Expertise
+
+🔹 Core Data Science Skills
+
+✔ Data Manipulation – Pandas, NumPy, SciPy
+✔ Statistical Analysis – Statsmodels
+✔ Data Visualization – Matplotlib, Seaborn
+✔ Machine Learning – Scikit-learn
+✔ ML Models – Linear & Logistic Regression, Decision Trees, Random Forest, Naive Bayes, AdaBoost, XGBoost
+
+🤖 AI & Deep Learning
+
+✔ Frameworks – TensorFlow, Keras
+✔ Generative AI – GPT, BERT, T5, OpenAI API, Hugging Face Transformers
+✔ Recommender Systems – Collaborative Filtering, Content-Based, Hybrid Models
+✔ Advanced AI Models – RAG, BERT, YOLO
+
+🌐 Development & Deployment
+
+✔ Web Frameworks – Flask, FastAPI
+✔ Prompt Engineering – Fine-tuning prompts for optimal AI performance
+✔ LangChain & GenAI – Building robust AI workflows
+
+📬 Let’s Connect
+
+📧 Email: abhiydv23096@gmail.com
+
+I believe every dataset has a hidden story waiting to be uncovered. With curiosity, technical expertise, and cutting-edge tools, I am on a mission to solve real-world challenges through data and AI. Let's collaborate to build something extraordinary!
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/AbhiYadav4723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/AbhiYadav4723" height="30" width="40" /></a>
