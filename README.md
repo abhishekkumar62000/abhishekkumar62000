@@ -1,4 +1,4 @@
-<img src="./Data.jpg" /> 
+<img src="./github.webp" /> 
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 <h1 align="center">Top Data Science Voice at Linkedln</h1>
 <h3 align="center">A Passionate AI Engineer, Data Science, Enthusiast from Bihar,India</h3>
