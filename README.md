@@ -23,13 +23,19 @@
 
 - 📫 How to reach me **abhiydv23096@gmail.com**
 
-- <h2 align="center">🐍 My Contributions 🐍</h2>
+<h2 align="center">🐍 My Contributions 🐍</h2>
 
-<picture align="center">
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekkumar62000/abhishekkumar62000/output/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekkumar62000/abhishekkumar62000/output/github-contribution-grid-snake.svg">
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekkumar62000/abhishekkumar62000/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar62000&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%"/>
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/github/commit-activity/m/abhishekkumar62000/abhishekkumar62000?color=blue&label=Commits&style=for-the-badge" alt="Commits"/>
+  <img src="https://img.shields.io/github/issues/abhishekkumar62000/abhishekkumar62000?color=orange&label=Issues&style=for-the-badge" alt="Issues"/>
+  <img src="https://img.shields.io/github/pull-requests/abhishekkumar62000/abhishekkumar62000?color=green&label=PRs&style=for-the-badge" alt="Pull Requests"/>
+  <img src="https://img.shields.io/github/stars/abhishekkumar62000/abhishekkumar62000?color=yellow&label=Stars&style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/abhishekkumar62000?color=purple&label=Followers&style=for-the-badge" alt="Followers"/>
+</div>
 
 <br/>
 
