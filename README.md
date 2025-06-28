@@ -23,23 +23,9 @@
 
 - 📫 How to reach me **abhiydv23096@gmail.com**
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+- Abhishek Yadav – Aspiring Data Scientist
 
-<picture align="center">
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekkumar62000/abhishekkumar62000/output/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekkumar62000/abhishekkumar62000/output/github-contribution-grid-snake.svg">
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekkumar62000/abhishekkumar62000/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-
-<div align="center">
-  <b>Want to collaborate or contribute? <a href="https://github.com/abhishekkumar62000">Let's connect!</a> 🚀</b>
-</div>
-
-Abhishek Yadav – Aspiring Data Scientist
-
-Transforming Data into Actionable Insights & AI-Powered Solutions
+- Transforming Data into Actionable Insights & AI-Powered Solutions
 
 🚀 About Me
 
