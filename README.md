@@ -25,12 +25,6 @@
 
 - <h2 align="center">🐍 My Contributions 🐍</h2>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/harshhh28" alt="harshhh28's Github chart" width="90%"/>
-</div>
-
-<br/>
-
 <picture align="center">
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshhh28/harshhh28/output/github-contribution-grid-snake-dark.svg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshhh28/harshhh28/output/github-contribution-grid-snake.svg">
