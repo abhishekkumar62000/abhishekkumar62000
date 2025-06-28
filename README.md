@@ -25,14 +25,6 @@
 
 - <h2 align="center">🐍 My Contributions 🐍</h2>
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshhh28&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%"/>
-</div>
-
-<di
-
-<br/>
-
 <div align="center">
   <img src="https://ghchart.rshah.org/harshhh28" alt="harshhh28's Github chart" width="90%"/>
 </div>
