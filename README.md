@@ -23,13 +23,13 @@
 
 - 📫 How to reach me **abhiydv23096@gmail.com**
 
-- Abhishek Yadav – Aspiring Data Scientist
+- Abhishek Yadav – Aspiring AI Engineer, Data Scientist
 
 - Transforming Data into Actionable Insights & AI-Powered Solutions
 
 🚀 About Me
 
-I am an Aspiring Data Scientist passionate about uncovering insights from complex datasets, solving intricate problems, and driving impactful decisions through data-driven analysis & AI solutions. My expertise spans machine learning, deep learning, and generative AI, enabling businesses to leverage data for growth and innovation.
+I am an Aspiring AI LLM Engineer🧑‍💻 passionate about uncovering insights from complex datasets, solving intricate problems, and driving impactful decisions through data-driven analysis & AI solutions. My expertise spans machine learning, deep learning, and generative AI, enabling businesses to leverage data for growth and innovation.
 
 🛠 Skills & Expertise
 
