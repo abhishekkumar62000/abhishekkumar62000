@@ -92,5 +92,17 @@ I believe every dataset has a hidden story waiting to be uncovered. With curiosi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar62000&theme=tokyo-night&hide_border=true"/>
 </p>
 
-![githubgif](https://github.com/user-attachments/assets/eb2df9fa-9afa-484b-b6f7-75441a8a80d1)
+<div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/eb2df9fa-9afa-484b-b6f7-75441a8a80d1"
+    width="320"
+    alt="GitHub Animation"
+  />
+</div>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb2df9fa-9afa-484b-b6f7-75441a8a80d1" width="300"/>
+</p>
+
 
