@@ -93,15 +93,27 @@ I believe every dataset has a hidden story waiting to be uncovered. With curiosi
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar62000&langs_count=6&theme=radical&hide_border=true"/>
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar62000&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkumar62000&show_icons=true&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar62000&layout=compact&theme=dark" height="170"/>
 </p>
+
+---
+
+## 🔥 Contribution Streak (100% WORKING)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar62000&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=abhishekkumar62000&theme=dark" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies (Stable)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar62000&theme=dark&no-frame=true&row=1"/>
+</p>
+
+---
