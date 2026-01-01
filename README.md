@@ -93,3 +93,10 @@ I believe every dataset has a hidden story waiting to be uncovered. With curiosi
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar62000&langs_count=6&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar62000&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
