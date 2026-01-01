@@ -93,27 +93,32 @@ I believe every dataset has a hidden story waiting to be uncovered. With curiosi
 </p>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkumar62000&show_icons=true&theme=dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar62000&layout=compact&theme=dark" height="170"/>
-</p>
+![Metrics](https://metrics.lecoq.io/abhishekkumar62000?template=classic
+&base.header=0
+&base.activity=1
+&base.community=1
+&base.repositories=1
+&base.metadata=1
 
----
+&plugin_isocalendar=1
+&plugin_isocalendar_duration=1y
 
-## 🔥 Contribution Streak (100% WORKING)
+&plugin_languages=1
+&plugin_languages_ignored=html,css
+&plugin_languages_details=bytes-size,percentage
+&plugin_languages_limit=8
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekkumar62000&theme=dark" />
-</p>
+&plugin_achievements=1
+&plugin_achievements_threshold=C
+&plugin_achievements_secrets=true
+&plugin_achievements_display=detailed
 
----
+&plugin_followup=1
+&plugin_followup_archived=1
 
-## 🏆 GitHub Trophies (Stable)
+&plugin_stargazers=1
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar62000&theme=dark&no-frame=true&row=1"/>
-</p>
+&config.timezone=Asia/Kolkata)
 
----
