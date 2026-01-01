@@ -91,34 +91,3 @@ I believe every dataset has a hidden story waiting to be uncovered. With curiosi
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar62000&theme=tokyo-night&hide_border=true"/>
 </p>
-
-
-## 📊 GitHub Stats Dashboard
-
-![Metrics](https://metrics.lecoq.io/abhishekkumar62000?template=classic
-&base.header=0
-&base.activity=1
-&base.community=1
-&base.repositories=1
-&base.metadata=1
-
-&plugin_isocalendar=1
-&plugin_isocalendar_duration=1y
-
-&plugin_languages=1
-&plugin_languages_ignored=html,css
-&plugin_languages_details=bytes-size,percentage
-&plugin_languages_limit=8
-
-&plugin_achievements=1
-&plugin_achievements_threshold=C
-&plugin_achievements_secrets=true
-&plugin_achievements_display=detailed
-
-&plugin_followup=1
-&plugin_followup_archived=1
-
-&plugin_stargazers=1
-
-&config.timezone=Asia/Kolkata)
-
