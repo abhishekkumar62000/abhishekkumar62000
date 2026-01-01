@@ -100,3 +100,8 @@ I believe every dataset has a hidden story waiting to be uncovered. With curiosi
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar62000&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar62000&theme=tokyonight&hide_border=true"/>
+</p>
+
