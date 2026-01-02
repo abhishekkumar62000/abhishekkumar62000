@@ -121,9 +121,14 @@ I believe every dataset has a hidden story waiting to be uncovered. With curiosi
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 <br><br>
 
-- Productive Working
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-<br><br>
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"
+    style="width:100%; max-width:100%;"
+    alt="Productive Working"
+  />
+</p>
+
 
 <div align="center">
   <img 
