@@ -117,17 +117,7 @@ I believe every dataset has a hidden story waiting to be uncovered. With curiosi
 <table align="center">
   <tr>
     <td align="center">
-      <img 
-        src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
-        width="260"
-        alt="Mr Robot"
-      />
-      <br/>
-      <b>Mr Robot</b>
-    </td>
-
-    <td align="center">
-      <img 
+      <img
         src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"
         width="360"
         alt="Productive Working"
@@ -137,8 +127,8 @@ I believe every dataset has a hidden story waiting to be uncovered. With curiosi
     </td>
 
     <td align="center">
-      <img 
-        src="https://github.com/user-attachments/assets/eb2df9fa-9afa-484b-b6f7-75441a8a80d1"
+      <img
+        src="https://user-images.githubusercontent.com/74038190/eb2df9fa-9afa-484b-b6f7-75441a8a80d1.gif"
         width="260"
         alt="GitHub Animation"
       />
