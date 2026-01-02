@@ -126,15 +126,6 @@ I believe every dataset has a hidden story waiting to be uncovered. With curiosi
       <b>Productive Working</b>
     </td>
 
-    <td align="center">
-      <img
-        src="https://user-images.githubusercontent.com/74038190/eb2df9fa-9afa-484b-b6f7-75441a8a80d1.gif"
-        width="260"
-        alt="GitHub Animation"
-      />
-      <br/>
-      <b>GitHub Life</b>
-    </td>
   </tr>
 </table>
 
