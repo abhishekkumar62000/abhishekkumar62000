@@ -115,25 +115,36 @@ I believe every dataset has a hidden story waiting to be uncovered. With curiosi
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 
-<br><br>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
+        width="260"
+        alt="Mr Robot"
+      />
+      <br/>
+      <b>Mr Robot</b>
+    </td>
 
-- Mr Robot
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
-<br><br>
+    <td align="center">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"
+        width="360"
+        alt="Productive Working"
+      />
+      <br/>
+      <b>Productive Working</b>
+    </td>
 
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"
-    style="width:100%; max-width:100%;"
-    alt="Productive Working"
-  />
-</p>
-
-
-<div align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/eb2df9fa-9afa-484b-b6f7-75441a8a80d1"
-    width="320"
-    alt="GitHub Animation"
-  />
-</div>
+    <td align="center">
+      <img 
+        src="https://github.com/user-attachments/assets/eb2df9fa-9afa-484b-b6f7-75441a8a80d1"
+        width="260"
+        alt="GitHub Animation"
+      />
+      <br/>
+      <b>GitHub Life</b>
+    </td>
+  </tr>
+</table>
