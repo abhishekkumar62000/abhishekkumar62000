@@ -113,6 +113,6 @@ I believe every dataset has a hidden story waiting to be uncovered. With curiosi
 
 ## 📊 GitHub Contributions
 
-![Total Contributions](https://img.shields.io/badge/Total_Contributions-1248-brightgreen)
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-12490-brightgreen)
 
 
