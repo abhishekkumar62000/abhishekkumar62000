@@ -111,12 +111,8 @@ I believe every dataset has a hidden story waiting to be uncovered. With curiosi
   </tr>
 </table>
 
-## 👨‍💻 Abhishek Kumar | GitHub Contributions
+## 📊 GitHub Contributions
 
-![Contributions](https://github.com/abhishekkumar62000.png)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=abhishekkumar62000&show_icons=true)
-
-![Streak](https://streak-stats.demolab.com?user=abhishekkumar62000)
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-1248-brightgreen)
 
 
