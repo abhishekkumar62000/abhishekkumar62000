@@ -1,118 +1,263 @@
-## ❤️ Support My Work
+<div align="center">
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-pink?logo=github)](https://github.com/sponsors/abhishekkumar62000)
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00ACC1,100:0D1117&height=200&section=header&text=Abhishek%20Yadav&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20LLM%20Enthusiast&descAlignY=60&descSize=20&animation=twinkling" />
 
-<img src="./github.webp" /> 
-<h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
-<h1 align="center">Top Data Science Voice at Linkedln</h1>
-<h3 align="center">A Passionate AI Engineer, Data Science, Enthusiast from Bihar,India</h3>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00ACC1&center=true&vCenter=true&multiline=false&width=700&lines=Top+Data+Science+Voice+%F0%9F%94%A5+on+LinkedIn;Aspiring+AI+%26+LLM+Engineer+%F0%9F%A4%96;Building+AI+Solutions+from+Bihar%2C+India+%F0%9F%87%AE%F0%9F%87%B3;RAG+%7C+LLM+Fine-Tuning+%7C+GenAI+%F0%9F%9A%80;Turning+Data+into+Decisions+%F0%9F%92%A1" alt="Typing SVG" />
+</a>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar62000&theme=react-dark&hide_border=true&area=true) <hr>
+<br/>
 
+<!-- Profile Views + Social Badges Row -->
+<img src="https://komarev.com/ghpvc/?username=abhishekkumar62000&label=Profile+Views&color=00ACC1&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/sponsors/abhishekkumar62000">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?style=for-the-badge&logo=github-sponsors" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abhishek-kumar-70a69829a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+&nbsp;
+<a href="https://x.com/AbhiYadav4723">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/abhiyadav6222">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/c/machinelearnmagic">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" />
+</a>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar62000&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar62000" /> </p>
+---
 
-<p align="left"> <a href="https://www.linkedin.com/in/abhishek-kumar-70a69829a" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek-kumar-70a69829a?logo=twitter&style=for-the-badge" alt="https://x.com/AbhiYadav4723" /></a> </p>
-- 🔭 I’m currently working on  🤖Generative AI, RAG,  LLM Fine-Tuning🤖🧑‍💻
+## 🧠 About Me
 
-- 👨‍💻MY portfolio Website🚨🤖:- https://abhi-yadav.vercel.app/
+<img align="right" alt="AI Coding Animation" width="380" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
 
-- 🌱 I’m currently learning🧑‍💻*RAG*,  *LLM Fine-Tuning* *Machine Learning, Deep Learning, NPL, Computer vision**
+```python
+class AbhishekYadav:
+    def __init__(self):
+        self.name       = "Abhishek Yadav"
+        self.role       = "Aspiring AI / LLM Engineer"
+        self.location   = "Bihar, India 🇮🇳"
+        self.linkedin   = "Top Data Science Voice 🔥"
+        self.portfolio  = "https://abhi-yadav.vercel.app/"
+        self.email      = "abhiydv23096@gmail.com"
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhishekkumar62000/](https://github.com/abhishekkumar62000/)
+    def currently_working_on(self):
+        return ["Generative AI", "RAG Pipelines", "LLM Fine-Tuning"]
 
-- 💬 Ask me about **Data Science, Data analytics, Machine Learning, Deep Learning, Data visualization:- Power BI, Tableau,Python, SQL, Statistics**
+    def currently_learning(self):
+        return ["Advanced RAG", "NLP", "Computer Vision", "MLOps"]
 
-- 📫 How to reach me **abhiydv23096@gmail.com**
+    def philosophy(self):
+        return "Every dataset has a hidden story — I uncover it. 💡"
+```
 
-- Abhishek Yadav – Aspiring AI Engineer, Data Scientist
+<br clear="right"/>
 
-- Transforming Data into Actionable Insights & AI-Powered Solutions
+---
 
-🚀 About Me
+## 🚀 What I Do
 
-I am an Aspiring AI LLM Engineer🧑‍💻 passionate about uncovering insights from complex datasets, solving intricate problems, and driving impactful decisions through data-driven analysis & AI solutions. My expertise spans machine learning, deep learning, and generative AI, enabling businesses to leverage data for growth and innovation.
+<div align="center">
 
-🛠 Skills & Expertise
+| 🔬 Data Science | 🤖 AI & Deep Learning | 🌐 Dev & Deployment |
+|:---:|:---:|:---:|
+| Pandas, NumPy, SciPy | TensorFlow, Keras, PyTorch | Flask, FastAPI |
+| Statistical Analysis | GPT, BERT, T5, YOLO | LangChain & LangGraph |
+| Matplotlib, Seaborn | Hugging Face Transformers | Prompt Engineering |
+| Scikit-Learn | OpenAI API | RAG Pipelines |
+| Power BI, Tableau | Recommender Systems | LLM Fine-Tuning |
+| SQL, MySQL, SQLite | Generative AI | Git & Version Control |
 
-🔹 Core Data Science Skills
+</div>
 
-✔ Data Manipulation – Pandas, NumPy, SciPy
-✔ Statistical Analysis – Statsmodels
-✔ Data Visualization – Matplotlib, Seaborn
-✔ Machine Learning – Scikit-learn
-✔ ML Models – Linear & Logistic Regression, Decision Trees, Random Forest, Naive Bayes, AdaBoost, XGBoost
+---
 
-🤖 AI & Deep Learning
+## 🛠️ Tech Stack & Tools
 
-✔ Frameworks – TensorFlow, Keras
-✔ Generative AI – GPT, BERT, T5, OpenAI API, Hugging Face Transformers
-✔ Recommender Systems – Collaborative Filtering, Content-Based, Hybrid Models
-✔ Advanced AI Models – RAG, BERT, YOLO
+<div align="center">
 
-🌐 Development & Deployment
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-✔ Web Frameworks – Flask, FastAPI
-✔ Prompt Engineering – Fine-tuning prompts for optimal AI performance
-✔ LangChain & GenAI – Building robust AI workflows
+### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white)
 
-📬 Let’s Connect
+### 🤖 AI & Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-📧 Email: abhiydv23096@gmail.com
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MsSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-I believe every dataset has a hidden story waiting to be uncovered. With curiosity, technical expertise, and cutting-edge tools, I am on a mission to solve real-world challenges through data and AI. Let's collaborate to build something extraordinary!
+### 📈 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+### 🌐 Web & Deployment
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/AbhiYadav4723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/AbhiYadav4723" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhishek-kumar-70a69829a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek Kumar" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/abhiyadav6222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt=abhishekkumar62000" height="30" width="40" /></a>
-<a href="https://fb.com/Abhishek Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Abhishek Kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/kaibalya_biswal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaibalya_biswal18" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/machinelearnmagic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="machinelearnmagic" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🔥 What I'm Building Right Now
 
-<h3 align="center">📊 My Stats</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar62000&theme=algolia" alt="abhishekkumar62000" /></a> </p>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkumar62000&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar62000&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=001233&title_color=00ACC1&langs_count=15&layout=compact" />
-</p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkumar62000&show_icons=true&locale=en&layout=compact" alt="abhishekkumar62000" /></p>
+```
+╔══════════════════════════════════════════════════════════╗
+║                  🚀 ACTIVE PROJECTS                      ║
+╠══════════════════════════════════════════════════════════╣
+║  🤖  Generative AI Applications with RAG Pipelines       ║
+║  🧠  LLM Fine-Tuning on Domain-Specific Datasets         ║
+║  🔍  Advanced NLP & Computer Vision Models               ║
+║  📊  AI-Powered Data Analytics Dashboards                ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkumar62000&show_icons=true&locale=en" alt="abhishekkumar62000" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar62000&" alt="abhishekkumar62000" /></p>
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar62000&theme=tokyo-night&hide_border=true"/>
-</p>
+## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"
-        width="360"
-        alt="Productive Working"
-      />
-      <br/>
-      <b>Productive Working</b>
-    </td>
+<div align="center">
 
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekkumar62000&show_icons=true&rank_icon=github&border=true&border_color=00ACC1&title_color=00ACC1&icon_color=00ACC1&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar62000&show_icons=true&border=true&border_color=00ACC1&text_color=FFFFFF&bg_color=0D1117&title_color=00ACC1&langs_count=10&layout=compact" width="49%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar62000&theme=dark&ring=00ACC1&fire=00ACC1&currStreakLabel=00ACC1&border=00ACC1" width="60%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar62000&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar62000&theme=react-dark&hide_border=true&area=true&color=00ACC1&line=00ACC1&point=FFFFFF)
+
+</div>
+
+---
+
+## 🤖 AI / ML Expertise Snapshot
+
+<div align="center">
+
+```
+Machine Learning        ████████████████████  Expert
+Deep Learning           ██████████████████░░  Advanced
+Generative AI / LLMs    ████████████████░░░░  Advanced
+RAG Pipelines           ██████████████░░░░░░  Intermediate+
+LLM Fine-Tuning         █████████████░░░░░░░  Intermediate+
+Computer Vision         ████████████░░░░░░░░  Intermediate
+NLP / Text Mining       ███████████████░░░░░  Advanced
+Data Visualization      ████████████████████  Expert
+SQL & Databases         ███████████████████░  Expert
+```
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+> 📌 All projects available at **[github.com/abhishekkumar62000](https://github.com/abhishekkumar62000)**
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkumar62000&repo=Malicious-URL-Detection-Deep-Learning-Project&bg_color=0D1117&border_color=00ACC1&title_color=00ACC1&text_color=FFFFFF&icon_color=00ACC1)](https://github.com/abhishekkumar62000)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkumar62000&repo=100-Days-Machine-Learning-Project&bg_color=0D1117&border_color=00ACC1&title_color=00ACC1&text_color=FFFFFF&icon_color=00ACC1)](https://github.com/abhishekkumar62000)
+
+</div>
+
+---
+
+## 💬 Let's Connect & Collaborate
+
+<div align="center">
+
+| Platform | Link |
+|:---:|:---:|
+| 🌐 Portfolio | [abhi-yadav.vercel.app](https://abhi-yadav.vercel.app/) |
+| 💼 LinkedIn | [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-70a69829a) |
+| 🐦 Twitter / X | [@AbhiYadav4723](https://x.com/AbhiYadav4723) |
+| 📊 Kaggle | [abhiyadav6222](https://www.kaggle.com/abhiyadav6222) |
+| ▶️ YouTube | [MachinelearnMagic](https://www.youtube.com/c/machinelearnmagic) |
+| 📧 Email | [abhiydv23096@gmail.com](mailto:abhiydv23096@gmail.com) |
+
+</div>
+
+---
+
+## 💡 Quote I Live By
+
+<div align="center">
+
+> *"Every dataset has a hidden story waiting to be uncovered. With curiosity, technical expertise, and cutting-edge tools — I uncover it."*
+> — **Abhishek Yadav**
+
+</div>
+
+---
 
 ## 📊 GitHub Contributions
 
-![Total Contributions](https://img.shields.io/badge/Total_Contributions-15264-brightgreen)
+<div align="center">
 
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-15264+-brightgreen?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/abhishekkumar62000?style=for-the-badge&color=00ACC1&logo=github)
+![Stars](https://img.shields.io/github/stars/abhishekkumar62000?style=for-the-badge&color=FFD700&logo=github)
 
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00ACC1,100:0D1117&height=120&section=footer&text=Thanks+for+visiting!+%F0%9F%99%8F&fontSize=28&fontColor=FFFFFF&fontAlignY=65" />
+
+</div>
