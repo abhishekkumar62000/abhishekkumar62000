@@ -417,6 +417,262 @@ graph LR
 
 ---
 
+<!-- ============================================================ -->
+<!--          🏆 ACHIEVEMENTS & VENTURES SECTION                  -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=🏆+Achievements+%26+Ventures;🚀+Building+Products+That+Matter;💡+From+Bihar+to+the+World;🌍+Startup+Founder+%7C+Innovator+%7C+Builder" alt="Achievements Banner" />
+
+</div>
+
+---
+
+## 🏆 Achievements & What I'm Building
+
+> 🌟 *Beyond code and data — I build products, platforms, and movements that create real-world impact.*
+
+---
+
+### 🚀 Ventures I've Founded & Built
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║           👨‍💼 ABHISHEK YADAV — FOUNDER & BUILDER                ║
+╠══════════════════════════════════════════════════════════════════╣
+║   🏢 TechSeva IT Solutions  ·  🏥 Sehaat Saathi HealthCare      ║
+║             🌱 Building Bihar Foundation (NGO)                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+### 🏢 01 — TechSeva IT Solutions Agency
+
+<table>
+<tr>
+<td width="65%">
+
+#### 💼 [TechSeva IT Solutions](https://techseva-it-solutions.vercel.app/) — *Founder & CEO*
+
+> **Transforming Businesses through Cutting-Edge Technology & Innovation**
+
+**TechSeva Solutions** is a dynamic IT agency I founded with a mission to bridge the gap between **technology and business growth** — delivering tailored, high-performance solutions that enhance efficiency, engagement, and scalability.
+
+**🎯 What We Build:**
+
+| Service | Description |
+|:---|:---|
+| 🌐 **Web & App Development** | Modern, scalable websites and applications |
+| 🤖 **AI-Powered Solutions** | Custom AI tools and automation pipelines |
+| 🎨 **UI/UX Design** | Beautiful, user-first design systems |
+| 📣 **Digital Marketing** | Data-driven growth strategies |
+| 🏷️ **Branding** | Identity design for startups & SMEs |
+| ⚙️ **Business Automation** | Process automation for efficiency |
+
+**🌍 Our Mission:**
+> *To bridge the gap between Technology and Business growth by delivering tailored, high-performance solutions that help startups, SMEs, and enterprises thrive in the Digital Era.*
+
+</td>
+<td width="35%" align="center">
+
+<br/>
+
+![TechSeva](https://img.shields.io/badge/TechSeva-IT%20Solutions-00ACC1?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br/>
+
+```
+🏢 Type: IT Agency
+👨‍💼 Role: Founder & CEO
+🌐 Domain: Full-Stack AI
+📍 Based: Bihar, India
+🚀 Status: LIVE & Active
+```
+
+<br/>
+
+[![Visit TechSeva](https://img.shields.io/badge/🌐%20Visit%20Website-TechSeva-00ACC1?style=for-the-badge)](https://techseva-it-solutions.vercel.app/)
+
+<br/>
+
+![Web Dev](https://img.shields.io/badge/Web%20Dev-✅-brightgreen?style=flat-square)
+![AI Solutions](https://img.shields.io/badge/AI%20Solutions-✅-brightgreen?style=flat-square)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-✅-brightgreen?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-✅-brightgreen?style=flat-square)
+![Branding](https://img.shields.io/badge/Branding-✅-brightgreen?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏥 02 — Sehaat Saathi HealthCare Platform
+
+<table>
+<tr>
+<td width="35%" align="center">
+
+<br/>
+
+![Sehaat Saathi](https://img.shields.io/badge/Sehaat%20Saathi-HealthCare%20AI-E53935?style=for-the-badge&logo=health&logoColor=white)
+
+<br/>
+
+```
+🏥 Type: AI HealthTech
+👨‍💼 Role: Founder & Builder
+🤖 Core: AI-Powered
+📍 Based: India-wide
+🚀 Status: LIVE & Active
+🇮🇳 Tag: India's 1st AI
+         Virtual HealthCare
+```
+
+<br/>
+
+[![Visit Sehaat Saathi](https://img.shields.io/badge/🏥%20Visit%20Platform-Sehaat%20Saathi-E53935?style=for-the-badge)](https://sehaat-saathi.vercel.app/)
+
+<br/>
+
+![AI Doctor](https://img.shields.io/badge/AI%20Doctor-✅-brightgreen?style=flat-square)
+![Video Call](https://img.shields.io/badge/Video%20Consult-✅-brightgreen?style=flat-square)
+![Emergency](https://img.shields.io/badge/Emergency%20Booking-✅-brightgreen?style=flat-square)
+![Medicine](https://img.shields.io/badge/Medicine%20Order-✅-brightgreen?style=flat-square)
+
+</td>
+<td width="65%">
+
+#### 🏥 [Sehaat Saathi](https://sehaat-saathi.vercel.app/) — *Founder & AI Engineer*
+
+> **India's 1st AI-Powered Virtual HealthCare Platform** 🇮🇳
+
+**Sehaat Saathi** is my most ambitious project — a platform designed to make **quality, affordable, and accessible healthcare** available to every Indian, especially those in remote and underserved areas.
+
+**🤖 AI-Powered Features:**
+
+| Feature | Description |
+|:---|:---|
+| 🤖 **AI Virtual Doctor Chatbot** | 24/7 AI-driven symptom analysis & guidance |
+| 🔬 **AI Symptom Checker** | Instant diagnosis & health assessment |
+| 💊 **Medicine Suggestions** | Smart drug recommendations + First-Aid tips |
+| 🚑 **Emergency Ambulance** | One-tap ambulance booking |
+| 📹 **Video Call Consultations** | Instant online doctor consultations |
+| 📅 **Offline Slot Booking** | Schedule with any specialist doctor |
+| 🧪 **Lab Test Booking** | Book tests from home |
+| 💊 **Medicine Ordering** | Doorstep medicine delivery |
+| 📋 **Health Records** | Personal health history & reminders |
+
+**🌍 Our Mission:**
+> *To provide quality, affordable, and accessible healthcare services to every individual through cutting-edge AI technology and compassionate care.*
+
+**🛠️ Tech Stack:**
+![AI](https://img.shields.io/badge/AI-LLM%20Powered-purple?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌱 03 — Building Bihar Foundation (NGO):- Board Member
+*Operate From USA America,UK*   Me as a Core Team Member of NGO
+
+<table>
+<tr>
+<td width="65%">
+
+#### 🌱 [Building Bihar Foundation](https://building-bihar-foundation.vercel.app/) — *Core Team Members & Social Changemaker*
+
+> **एक नया, आत्मनिर्भर और खुशहाल बिहार बनाने का सपना** 🇮🇳
+
+**Building Bihar Foundation** is my social mission — an NGO I founded with a dream to uplift the people of Bihar through education, healthcare, food security, and women empowerment.
+
+**हम इसलिए काम करते हैं क्योंकि हमने करीब से देखा है कि बिहार में अब भी कई लोग गरीबी, असमानता और स्वास्थ्य समस्याओं से जूझ रहे हैं।**
+
+**🌟 Our 4 Pillars of Impact:**
+
+| Pillar | Mission |
+|:---|:---|
+| 🍽️ **No Hunger** | Ensure food reaches every needy person — in disasters and daily life |
+| 📚 **Education for All** | Study materials and schooling for every child in Bihar |
+| 🏥 **Healthcare for Everyone** | Free health camps and medical assistance for the underprivileged |
+| 💪 **Women Empowerment** | Make women self-reliant & ensure help reaches in every emergency |
+
+**🌍 Our Vision:**
+> *हमारा मकसद सिर्फ मदद करना नहीं, बल्कि एक नया, आत्मनिर्भर और खुशहाल बिहार बनाना है।*
+> *(Our goal is not just to help — but to build a new, self-reliant, and prosperous Bihar.)*
+
+</td>
+<td width="35%" align="center">
+
+<br/>
+
+![Building Bihar](https://img.shields.io/badge/Building%20Bihar-Foundation%20NGO-FF6F00?style=for-the-badge&logo=leaflet&logoColor=white)
+
+<br/>
+
+```
+🌱 Type: NGO / Social Impact
+👨‍💼 Role: Founder & Leader
+📍 Based: Bihar, India
+🚀 Status: ACTIVE & Growing
+🎯 Focus: Bihar Upliftment
+```
+
+<br/>
+
+[![Visit Foundation](https://img.shields.io/badge/🌱%20Visit%20Website-Building%20Bihar-FF6F00?style=for-the-badge)](https://building-bihar-foundation.vercel.app/)
+
+<br/>
+
+![Food](https://img.shields.io/badge/🍽️%20No%20Hunger-Mission%20Active-orange?style=flat-square)
+![Education](https://img.shields.io/badge/📚%20Education-Mission%20Active-blue?style=flat-square)
+![Health](https://img.shields.io/badge/🏥%20Healthcare-Mission%20Active-red?style=flat-square)
+![Women](https://img.shields.io/badge/💪%20Women%20Empowerment-Active-purple?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌟 Achievement Highlights
+
+<div align="center">
+
+| 🏅 Achievement | 📝 Details |
+|:---|:---|
+| 🔥 **LinkedIn Top Data Science Voice** | Recognized among top voices in Data Science on LinkedIn |
+| 🚀 **Startup Founder** | Founded TechSeva IT Solutions — a full-stack AI agency |
+| 🏥 **HealthTech Innovator** | Built India's 1st AI-powered virtual healthcare platform |
+| 🌱 **Social Entrepreneur** | Core Team Member Building Bihar Foundation NGO for social upliftment |
+| 💻 **15,264+ GitHub Contributions** | Consistent open-source contributor across 100+ repositories |
+| 🤖 **AI/LLM Engineer** | Built production RAG pipelines, fine-tuned LLMs, GenAI apps |
+| 📊 **Data Science Educator** | Sharing knowledge via YouTube (MachinelearnMagic) & LinkedIn |
+| 🏆 **100-Day ML Challenge** | Completed 100-day machine learning project challenge |
+| 🎯 **Multi-Domain Impact** | Tech + Healthcare + Social Impact — all from Bihar, India |
+
+</div>
+
+---
+
+---
+
 ## 💬 Quotes That Drive Me
 
 <div align="center">
