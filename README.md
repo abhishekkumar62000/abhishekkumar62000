@@ -1,163 +1,300 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00ACC1,100:0D1117&height=200&section=header&text=Abhishek%20Yadav&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20LLM%20Enthusiast&descAlignY=60&descSize=20&animation=twinkling" />
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Yadav&fontSize=70&fontColor=fff&fontAlignY=38&desc=🤖%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20LLM%20Builder%20%7C%20Bihar%2C%20India%20🇮🇳&descAlignY=60&descSize=18&animation=twinkling" />
 
-<!-- Typing Animation -->
+<!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00ACC1&center=true&vCenter=true&multiline=false&width=700&lines=Top+Data+Science+Voice+%F0%9F%94%A5+on+LinkedIn;Aspiring+AI+%26+LLM+Engineer+%F0%9F%A4%96;Building+AI+Solutions+from+Bihar%2C+India+%F0%9F%87%AE%F0%9F%87%B3;RAG+%7C+LLM+Fine-Tuning+%7C+GenAI+%F0%9F%9A%80;Turning+Data+into+Decisions+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=false&width=750&lines=🔥+Top+Data+Science+Voice+on+LinkedIn;🤖+Aspiring+AI+%26+LLM+Engineer;🧠+Building+RAG+Pipelines+%26+Fine-Tuning+LLMs;📊+Transforming+Data+into+AI-Powered+Solutions;🚀+From+Bihar%2C+India+—+Changing+the+AI+World!;💡+Every+Dataset+Has+a+Hidden+Story...+I+Find+It!" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- BADGES ROW -->
+<a href="https://www.linkedin.com/in/abhishek-kumar-70a69829a">
+  <img src="https://img.shields.io/badge/LinkedIn-Top%20Data%20Science%20Voice-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://abhi-yadav.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:abhiydv23096@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/sponsors/abhishekkumar62000">
+  <img src="https://img.shields.io/badge/Sponsor-❤️%20Support-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" />
 </a>
 
 <br/>
 
-<!-- Profile Views + Social Badges Row -->
-<img src="https://komarev.com/ghpvc/?username=abhishekkumar62000&label=Profile+Views&color=00ACC1&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/sponsors/abhishekkumar62000">
-  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?style=for-the-badge&logo=github-sponsors" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abhishek-kumar-70a69829a">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-&nbsp;
-<a href="https://x.com/AbhiYadav4723">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
-</a>
-&nbsp;
-<a href="https://www.kaggle.com/abhiyadav6222">
-  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle" />
-</a>
-&nbsp;
-<a href="https://www.youtube.com/c/machinelearnmagic">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=abhishekkumar62000&label=👁️+Profile+Views&color=00ACC1&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/abhishekkumar62000?label=Followers&style=for-the-badge&logo=github&color=181717" />
+<img src="https://img.shields.io/github/stars/abhishekkumar62000?label=Total%20Stars&style=for-the-badge&logo=github&color=FFD700" />
+<img src="https://img.shields.io/badge/Total_Contributions-15264+-brightgreen?style=for-the-badge&logo=github" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
-<img align="right" alt="AI Coding Animation" width="380" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
+---
+
+## 🧬 The Code Behind the Person
+
+<img align="right" alt="AI Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
 
 ```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 class AbhishekYadav:
+    """
+    AI Engineer | Data Scientist | LLM Builder
+    Bihar, India 🇮🇳  →  Changing the AI World 🌍
+    """
+
     def __init__(self):
-        self.name       = "Abhishek Yadav"
-        self.role       = "Aspiring AI / LLM Engineer"
-        self.location   = "Bihar, India 🇮🇳"
-        self.linkedin   = "Top Data Science Voice 🔥"
-        self.portfolio  = "https://abhi-yadav.vercel.app/"
-        self.email      = "abhiydv23096@gmail.com"
+        self.name         = "Abhishek Yadav"
+        self.title        = "Aspiring AI / LLM Engineer"
+        self.linkedin     = "🔥 Top Data Science Voice"
+        self.location     = "Bihar, India 🇮🇳"
+        self.portfolio    = "https://abhi-yadav.vercel.app/"
+        self.email        = "abhiydv23096@gmail.com"
+        self.open_to      = ["Freelance", "Collaborations", "Research"]
+        self.superpower   = "Turning raw data → AI-powered decisions 💡"
 
-    def currently_working_on(self):
-        return ["Generative AI", "RAG Pipelines", "LLM Fine-Tuning"]
+    def current_focus(self):
+        return {
+            "building"  : ["RAG Pipelines", "LLM Fine-Tuning Apps"],
+            "learning"  : ["Advanced NLP", "Computer Vision", "MLOps"],
+            "exploring" : ["Agentic AI", "LangGraph", "Multimodal LLMs"],
+        }
 
-    def currently_learning(self):
-        return ["Advanced RAG", "NLP", "Computer Vision", "MLOps"]
+    def tech_philosophy(self):
+        return (
+            "Every dataset has a hidden story. "
+            "With curiosity + cutting-edge tools, "
+            "I uncover it. 🔍"
+        )
 
-    def philosophy(self):
-        return "Every dataset has a hidden story — I uncover it. 💡"
+    def fun_facts(self):
+        return [
+            "☕ Powered by chai and Python",
+            "📊 Obsessed with clean visualizations",
+            "🧠 Thinks in tensors, speaks in insights",
+            "🌙 Best code written after midnight",
+        ]
+
+if __name__ == "__main__":
+    me = AbhishekYadav()
+    print(me.tech_philosophy())
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me — Full Story
 
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-| 🔬 Data Science | 🤖 AI & Deep Learning | 🌐 Dev & Deployment |
-|:---:|:---:|:---:|
-| Pandas, NumPy, SciPy | TensorFlow, Keras, PyTorch | Flask, FastAPI |
-| Statistical Analysis | GPT, BERT, T5, YOLO | LangChain & LangGraph |
-| Matplotlib, Seaborn | Hugging Face Transformers | Prompt Engineering |
-| Scikit-Learn | OpenAI API | RAG Pipelines |
-| Power BI, Tableau | Recommender Systems | LLM Fine-Tuning |
-| SQL, MySQL, SQLite | Generative AI | Git & Version Control |
+### Who Am I?
 
-</div>
+I am **Abhishek Yadav** — an Aspiring **AI/LLM Engineer** and passionate **Data Scientist** from Bihar, India 🇮🇳, recognized as a **Top Data Science Voice** on LinkedIn.
+
+My mission is to transform complex, raw datasets into **AI-powered, actionable solutions** that drive real-world impact. I specialize in:
+
+- 🤖 **Generative AI** — Building LLM-powered apps from scratch
+- 🔍 **RAG Pipelines** — Retrieval-Augmented Generation for smart AI
+- 🧠 **LLM Fine-Tuning** — Domain-specific model adaptation
+- 📊 **Data Science** — End-to-end ML pipelines and analytics
+- 👁️ **Computer Vision** — YOLO & OpenCV powered vision systems
+- 🌐 **Full-Stack AI Apps** — Flask, FastAPI + LangChain deployments
+
+### My Core Belief
+> *"I believe every dataset has a hidden story waiting to be uncovered. With curiosity, technical expertise, and cutting-edge tools, I am on a mission to solve real-world challenges through data and AI."*
+
+</td>
+<td width="40%" align="center">
+
+### 🌟 Quick Facts
+
+| | |
+|---|---|
+| 🎓 | Self-taught AI Engineer |
+| 📍 | Bihar, India 🇮🇳 |
+| 🔭 | Building Gen AI & LLM Apps |
+| 🌱 | Learning RAG & Fine-Tuning |
+| 💬 | Ask me about Data Science |
+| 💡 | 15,264+ GitHub Contributions |
+| 🏆 | LinkedIn Top Data Science Voice |
+| 📧 | abhiydv23096@gmail.com |
+| 🌐 | [Portfolio](https://abhi-yadav.vercel.app/) |
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Complete Tech Arsenal
 
-<div align="center">
+### 👨‍💻 Programming Languages
 
-### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 📊 Data Science & ML
+### 📊 Data Science & Machine Learning
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🤖 AI & Deep Learning
+### 🤖 AI, Deep Learning & Generative AI
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI+API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=python&logoColor=black)
+![T5](https://img.shields.io/badge/T5%20Model-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MsSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### 📈 Data Visualization & BI
 
-### 📈 BI & Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🌐 Web & Deployment
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 🌐 Web Frameworks & Deployment
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🔧 Tools & DevOps
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ---
 
-## 🔥 What I'm Building Right Now
+## 🧠 AI / ML Expertise Map
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              🤖 SKILL PROFICIENCY RADAR                         ║
+╠═══════════════════════════╦══════════════════════════════════════╣
+║  Skill                    ║  Level                   Score      ║
+╠═══════════════════════════╬══════════════════════════════════════╣
+║  Machine Learning         ║  ████████████████████  Expert  95% ║
+║  Data Analysis & EDA      ║  ████████████████████  Expert  95% ║
+║  Deep Learning            ║  ██████████████████░░  Adv.    90% ║
+║  NLP & Text Mining        ║  ██████████████████░░  Adv.    88% ║
+║  Data Visualization       ║  ███████████████████░  Expert  92% ║
+║  Generative AI / LLMs     ║  █████████████████░░░  Adv.    85% ║
+║  RAG Pipelines            ║  ████████████████░░░░  Int+    80% ║
+║  LLM Fine-Tuning          ║  ███████████████░░░░░  Int+    75% ║
+║  Computer Vision          ║  ██████████████░░░░░░  Int.    70% ║
+║  SQL & Databases          ║  ████████████████████  Expert  93% ║
+║  Power BI / Tableau       ║  ████████████████████  Expert  90% ║
+║  Flask / FastAPI          ║  ███████████████░░░░░  Int+    75% ║
+║  Prompt Engineering       ║  █████████████████░░░  Adv.    85% ║
+╚═══════════════════════════╩══════════════════════════════════════╝
+```
+
+---
+
+## 🔥 Active Projects & Status
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                  🚀 ACTIVE PROJECTS                      ║
-╠══════════════════════════════════════════════════════════╣
-║  🤖  Generative AI Applications with RAG Pipelines       ║
-║  🧠  LLM Fine-Tuning on Domain-Specific Datasets         ║
-║  🔍  Advanced NLP & Computer Vision Models               ║
-║  📊  AI-Powered Data Analytics Dashboards                ║
-╚══════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────────┐
+│                  🚀 ACTIVE PROJECTS — 2025                       │
+├────────────┬─────────────────────────────────────────────────────┤
+│  🔴 LIVE   │  RAG-Powered Document Q&A (LangChain + FAISS)       │
+│  🟡 WIP    │  LLM Fine-Tuned Customer Support Chatbot            │
+│  🟡 WIP    │  AI Medical Report Analyzer (BERT + Transformers)   │
+│  🟢 DONE   │  Malicious URL Detector (Deep Learning)             │
+│  🟢 DONE   │  100-Days Machine Learning Challenge ✅             │
+│  🔵 NEXT   │  Multimodal AI App (Vision + Language Model)        │
+│  🔵 NEXT   │  Agentic AI Workflow with LangGraph                 │
+│  🟣 IDEAS  │  AI-Powered Resume Screener (GenAI)                 │
+│  🟣 IDEAS  │  Recommender System with Hybrid Filtering           │
+└────────────┴─────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🗺️ My AI / ML Roadmap 2025
+
+```mermaid
+graph LR
+    A[📊 Data Science] --> B[🤖 Machine Learning]
+    B --> C[🧠 Deep Learning]
+    C --> D[✍️ NLP & Transformers]
+    D --> E[🔍 RAG Pipelines]
+    E --> F[🎯 LLM Fine-Tuning]
+    F --> G[🚀 Agentic AI Systems]
+    G --> H[🌍 Production AI Apps]
+
+    style A fill:#00ACC1,color:#fff
+    style B fill:#0F6E56,color:#fff
+    style C fill:#534AB7,color:#fff
+    style D fill:#D85A30,color:#fff
+    style E fill:#BA7517,color:#fff
+    style F fill:#185FA5,color:#fff
+    style G fill:#A32D2D,color:#fff
+    style H fill:#3B6D11,color:#fff
+```
+
+---
+
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhishekkumar62000&show_icons=true&rank_icon=github&border=true&border_color=00ACC1&title_color=00ACC1&icon_color=00ACC1&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar62000&show_icons=true&border=true&border_color=00ACC1&text_color=FFFFFF&bg_color=0D1117&title_color=00ACC1&langs_count=10&layout=compact" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar62000&show_icons=true&border=true&border_color=00ACC1&text_color=FFFFFF&bg_color=0D1117&title_color=00ACC1&langs_count=12&layout=compact" width="49%" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar62000&theme=dark&ring=00ACC1&fire=00ACC1&currStreakLabel=00ACC1&border=00ACC1" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar62000&theme=dark&ring=00ACC1&fire=FF6B35&currStreakLabel=00ACC1&border=00ACC1&background=0D1117&stroke=00ACC1" width="60%" />
 
 </div>
 
@@ -167,37 +304,17 @@ class AbhishekYadav:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar62000&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar62000&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity Graph
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar62000&theme=react-dark&hide_border=true&area=true&color=00ACC1&line=00ACC1&point=FFFFFF)
-
-</div>
-
----
-
-## 🤖 AI / ML Expertise Snapshot
-
-<div align="center">
-
-```
-Machine Learning        ████████████████████  Expert
-Deep Learning           ██████████████████░░  Advanced
-Generative AI / LLMs    ████████████████░░░░  Advanced
-RAG Pipelines           ██████████████░░░░░░  Intermediate+
-LLM Fine-Tuning         █████████████░░░░░░░  Intermediate+
-Computer Vision         ████████████░░░░░░░░  Intermediate
-NLP / Text Mining       ███████████████░░░░░  Advanced
-Data Visualization      ████████████████████  Expert
-SQL & Databases         ███████████████████░  Expert
-```
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar62000&theme=tokyo-night&hide_border=false&area=true&color=00ACC1&line=00ACC1&point=FFFFFF&area_color=00ACC1)
 
 </div>
 
@@ -205,52 +322,136 @@ SQL & Databases         ██████████████████�
 
 ## 🌟 Featured Projects
 
-> 📌 All projects available at **[github.com/abhishekkumar62000](https://github.com/abhishekkumar62000)**
+> 🔗 Explore all 100+ projects at **[github.com/abhishekkumar62000](https://github.com/abhishekkumar62000)**
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkumar62000&repo=Malicious-URL-Detection-Deep-Learning-Project&bg_color=0D1117&border_color=00ACC1&title_color=00ACC1&text_color=FFFFFF&icon_color=00ACC1)](https://github.com/abhishekkumar62000)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkumar62000&repo=100-Days-Machine-Learning-Project&bg_color=0D1117&border_color=00ACC1&title_color=00ACC1&text_color=FFFFFF&icon_color=00ACC1)](https://github.com/abhishekkumar62000)
+[![Malicious URL](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkumar62000&repo=Malicious-URL-Detection-Deep-Learning-Project&bg_color=0D1117&border_color=00ACC1&title_color=00ACC1&text_color=FFFFFF&icon_color=00ACC1)](https://github.com/abhishekkumar62000/Malicious-URL-Detection-Deep-Learning-Project)
+[![100 Days ML](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkumar62000&repo=100-Days-Machine-Learning-Project&bg_color=0D1117&border_color=00ACC1&title_color=00ACC1&text_color=FFFFFF&icon_color=00ACC1)](https://github.com/abhishekkumar62000/100-Days-Machine-Learning-Project)
+
+</div>
+
+### 🗂️ Project Categories
+
+| Category | Description | Tech Stack |
+|:---|:---|:---|
+| 🤖 **Generative AI** | LLM-powered apps, chatbots, RAG systems | LangChain, OpenAI, HuggingFace |
+| 📊 **Data Science** | EDA, statistical analysis, dashboards | Pandas, Seaborn, Power BI |
+| 🧠 **Deep Learning** | CNNs, RNNs, Transformers | TensorFlow, PyTorch, Keras |
+| 👁️ **Computer Vision** | Object detection, image classification | YOLO, OpenCV, PIL |
+| 📝 **NLP** | Sentiment analysis, text classification | BERT, T5, SpaCy |
+| 🔍 **RAG & LLMs** | Document QA, vector search | FAISS, ChromaDB, LangChain |
+| 🌐 **Web AI Apps** | AI-powered web deployments | Flask, FastAPI, Streamlit |
+| 📈 **ML Models** | Classification, regression, clustering | Scikit-learn, XGBoost |
+| 📊 **BI Dashboards** | Business intelligence & storytelling | Power BI, Tableau, Plotly |
+| 🤝 **Recommender Systems** | Collaborative & content-based | Hybrid Models, Matrix Factorization |
+
+---
+
+## 🤝 Services & What I'm Looking For
+
+<div align="center">
+
+| 💼 What I Offer | 🎯 Looking For |
+|:---|:---|
+| 🔧 Custom ML/AI model development | 🤝 Open-source collaborations |
+| 📊 Data analytics & BI dashboards | 💼 Freelance AI/ML projects |
+| 🤖 LLM fine-tuning & RAG pipelines | 🏢 Full-time AI Engineer roles |
+| 🎨 Data visualization & storytelling | 🔬 Research partnerships |
+| 👨‍🏫 Data Science mentorship | 📢 Speaking & workshop opportunities |
+| 🌐 AI web app development (Flask/FastAPI) | 🚀 AI startup consulting |
 
 </div>
 
 ---
 
-## 💬 Let's Connect & Collaborate
+## 📚 My Learning Journey Timeline
+
+```
+2022  ──►  Foundation: Python, SQL, Statistics, Excel, Data Cleaning
+           └── First ML models: Linear Regression, Decision Trees
+
+2023  ──►  Core ML: Scikit-learn, Pandas, Matplotlib, Seaborn
+           └── BI Tools: Power BI, Tableau | 50+ Projects on GitHub
+
+2024  ──►  Deep Learning: TensorFlow, Keras, PyTorch
+           └── NLP & Computer Vision: BERT, YOLO, OpenCV, T5
+           └── Databases: MySQL, SQLite, MS SQL Server
+
+2025  ──►  Generative AI: HuggingFace, OpenAI API, LangChain
+           └── RAG Pipelines, LLM Fine-Tuning, Prompt Engineering
+           └── Web Deployment: Flask, FastAPI, Streamlit
+
+2025+ ──►  Agentic AI: LangGraph, Multi-Agent Systems, MLOps
+           └── Multimodal LLMs, Vector DBs (FAISS, ChromaDB)
+```
+
+---
+
+## 💡 AI Domains I Work In
 
 <div align="center">
 
-| Platform | Link |
-|:---:|:---:|
-| 🌐 Portfolio | [abhi-yadav.vercel.app](https://abhi-yadav.vercel.app/) |
-| 💼 LinkedIn | [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-70a69829a) |
-| 🐦 Twitter / X | [@AbhiYadav4723](https://x.com/AbhiYadav4723) |
-| 📊 Kaggle | [abhiyadav6222](https://www.kaggle.com/abhiyadav6222) |
-| ▶️ YouTube | [MachinelearnMagic](https://www.youtube.com/c/machinelearnmagic) |
-| 📧 Email | [abhiydv23096@gmail.com](mailto:abhiydv23096@gmail.com) |
+```
+┌─────────────────────────────────────────────────────────┐
+│  🌐 DOMAINS OF EXPERTISE                                │
+├─────────────────────────────────────────────────────────┤
+│  🏥 Healthcare AI     │  Medical report analysis, NLP   │
+│  🛡️ Cybersecurity AI  │  Malicious URL/threat detection  │
+│  📈 Finance AI        │  Predictive analytics, forecasts │
+│  🛒 Retail/E-comm     │  Recommender systems, churn pred │
+│  📰 NLP/Text AI       │  Summarization, classification   │
+│  👁️ Vision AI         │  Object detection, image class.  │
+│  💬 Conversational AI │  Chatbots, QA systems, RAG       │
+└─────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 💡 Quote I Live By
+## 💬 Quotes That Drive Me
 
 <div align="center">
 
-> *"Every dataset has a hidden story waiting to be uncovered. With curiosity, technical expertise, and cutting-edge tools — I uncover it."*
-> — **Abhishek Yadav**
+> *"In God we trust. All others must bring data."*
+> — **W. Edwards Deming**
+
+> *"Data is the new oil. But like oil, it's valuable only when refined."*
+> — **Clive Humby**
+
+> *"Every dataset has a hidden story waiting to be uncovered."*
+> — **Abhishek Yadav** 💡
 
 </div>
 
 ---
 
-## 📊 GitHub Contributions
+## 🌐 Connect With Me
 
 <div align="center">
 
-![Total Contributions](https://img.shields.io/badge/Total_Contributions-15264+-brightgreen?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/github/followers/abhishekkumar62000?style=for-the-badge&color=00ACC1&logo=github)
-![Stars](https://img.shields.io/github/stars/abhishekkumar62000?style=for-the-badge&color=FFD700&logo=github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-70a69829a)
+[![Twitter](https://img.shields.io/badge/Twitter-@AbhiYadav4723-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbhiYadav4723)
+[![Kaggle](https://img.shields.io/badge/Kaggle-abhiyadav6222-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abhiyadav6222)
+[![YouTube](https://img.shields.io/badge/YouTube-MachinelearnMagic-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/machinelearnmagic)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhi--yadav.vercel.app-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://abhi-yadav.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-abhiydv23096@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiydv23096@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-abhishekkumar62000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekkumar62000)
+
+</div>
+
+---
+
+## ❤️ Support My Work
+
+<div align="center">
+
+If my projects and open-source work have helped you, consider supporting:
+
+[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-❤️%20Sponsor%20Me-ff69b4?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/abhishekkumar62000)
+[![Star Repos](https://img.shields.io/badge/⭐%20Star-My%20Repos-FFD700?style=for-the-badge&logo=github)](https://github.com/abhishekkumar62000?tab=repositories)
+[![Follow](https://img.shields.io/badge/👣%20Follow-on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhishekkumar62000)
 
 </div>
 
@@ -258,6 +459,14 @@ SQL & Databases         ██████████████████�
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00ACC1,100:0D1117&height=120&section=footer&text=Thanks+for+visiting!+%F0%9F%99%8F&fontSize=28&fontColor=FFFFFF&fontAlignY=65" />
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="300" />
+
+<br/>
+
+### 🙏 *Thanks for visiting! Let's build the future with AI together.* 🚀
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Let's+Collaborate+🚀+%7C+AI+%7C+Data+%7C+Innovation&fontSize=22&fontColor=fff&fontAlignY=65" />
 
 </div>
