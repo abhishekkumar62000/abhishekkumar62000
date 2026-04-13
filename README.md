@@ -18,7 +18,7 @@
 <br/><br/>
 
 <!-- BADGES ROW -->
-<a href="https://www.linkedin.com/in/abhishek-kumar-70a69829a">
+<a href="https://www.linkedin.com/in/abhishek-kumar-807853375">
   <img src="https://img.shields.io/badge/LinkedIn-Top%20Data%20Science%20Voice-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://abhi-yadav.vercel.app/">
