@@ -306,9 +306,6 @@ graph LR
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
