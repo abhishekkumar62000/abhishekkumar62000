@@ -244,30 +244,6 @@ My mission is to transform complex, raw datasets into **AI-powered, actionable s
 
 ---
 
-## 🔥 Active Projects & Status
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                  🚀 ACTIVE PROJECTS — 2025                       │
-├────────────┬─────────────────────────────────────────────────────┤
-│  🔴 LIVE   │  RAG-Powered Document Q&A (LangChain + FAISS)       │
-│  🟡 WIP    │  LLM Fine-Tuned Customer Support Chatbot            │
-│  🟡 WIP    │  AI Medical Report Analyzer (BERT + Transformers)   │
-│  🟢 DONE   │  Malicious URL Detector (Deep Learning)             │
-│  🟢 DONE   │  100-Days Machine Learning Challenge ✅             │
-│  🔵 NEXT   │  Multimodal AI App (Vision + Language Model)        │
-│  🔵 NEXT   │  Agentic AI Workflow with LangGraph                 │
-│  🟣 IDEAS  │  AI-Powered Resume Screener (GenAI)                 │
-│  🟣 IDEAS  │  Recommender System with Hybrid Filtering           │
-└────────────┴─────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## 🗺️ My AI / ML Roadmap 2025
 
 ```mermaid
