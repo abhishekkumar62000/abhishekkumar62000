@@ -309,9 +309,29 @@ graph LR
 
 ## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar62000&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar62000&theme=algolia&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="Abhishek GitHub Trophies" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=abhishekkumar62000&theme=algolia&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="Abhishek GitHub Trophies Mirror 1" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=abhishekkumar62000&theme=algolia&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="Abhishek GitHub Trophies Mirror 2" />
+</a>
 
 </div>
 
