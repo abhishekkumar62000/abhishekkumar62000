@@ -5,12 +5,12 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=false&width=750&lines=🔥+Top+Data+Science+Voice+on+LinkedIn;🤖+Aspiring+AI+%26+LLM+Engineer;🧠+Building+RAG+Pipelines+%26+Fine-Tuning+LLMs;📊+Transforming+Data+into+AI-Powered+Solutions;🚀+From+Bihar%2C+India+—+%2C+India+—+Changing+the+AI+World!;💡+Every+Dataset+Has+a+Hidden+Story...+I+Find+It!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=false&width=750&lines=🔥+Top+Data+Science+Voice+on+LinkedIn;🤖+Aspiring+AI+%26+LLM+Engineer;🧠+Building+RAG+Pipelines+%26+Fine-Tuning+LLMs;📊+Transforming+Data+into+AI-Powered+Solutions;🚀+From+%2C+India+—+%2C+India+—+Changing+the+AI+World!;💡+Every+Dataset+Has+a+Hidden+Story...+I+Find+It!" alt="Typing SVG" />
 </a>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00ACC1&center=true&vCenter=true&multiline=false&width=700&lines=Top+Data+Science+Voice+%F0%9F%94%A5+on+LinkedIn;Aspiring+AI+%26+LLM+Engineer+%F0%9F%A4%96;Building+AI+Solutions+from+Bihar%2C+India+%F0%9F%87%AE%F0%9F%87%B3;RAG+%7C+LLM+Fine-Tuning+%7C+GenAI+%F0%9F%9A%80;Turning+Data+into+Decisions+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00ACC1&center=true&vCenter=true&multiline=false&width=700&lines=Top+Data+Science+Voice+%F0%9F%94%A5+on+LinkedIn;Aspiring+AI+%26+LLM+Engineer+%F0%9F%A4%96;Building+AI+Solutions+from+%2C+India+%F0%9F%87%AE%F0%9F%87%B3;RAG+%7C+LLM+Fine-Tuning+%7C+GenAI+%F0%9F%9A%80;Turning+Data+into+Decisions+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <br/>
