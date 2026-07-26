@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=false&width=750&lines=🔥+Top+Data+Science+Voice+on+LinkedIn;🤖+Aspiring+AI+%26+LLM+Engineer;🧠+Building+RAG+Pipelines+%26+Fine-Tuning+LLMs;📊+Transforming+Data+into+AI-Powered+Solutions;🚀+From+Bihar%2C+India+—+Changing+the+AI+World!;💡+Every+Dataset+Has+a+Hidden+Story...+I+Find+It!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=false&width=750&lines=🔥+Top+Data+Science+Voice+on+LinkedIn;🤖+Aspiring+AI+%26+LLM+Engineer;🧠+Building+RAG+Pipelines+%26+Fine-Tuning+LLMs;📊+Transforming+Data+into+AI-Powered+Solutions;🚀%2C+India+—+Changing+the+AI+World!;💡+Every+Dataset+Has+a+Hidden+Story...+I+Find+It!" alt="Typing SVG" />
 </a>
 
 <!-- Typing Animation -->
