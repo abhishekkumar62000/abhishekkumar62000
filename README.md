@@ -1,7 +1,7 @@
 <div align="center">  
 
 <!-- ANIMATED HEADER --> 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Kumar&fontSize=70&fontColor=fff&fontAlignY=38&desc=🤖%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20LLM%20Builder%20%7C%20Bihar%2C%20India%20🇮🇳&descAlignY=60&descSize=18&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Kumar&fontSize=70&fontColor=fff&fontAlignY=38&desc=🤖%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20LLM%20Builder%20%7C%20%2C%20India%20🇮🇳&descAlignY=60&descSize=18&animation=twinkling" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -142,7 +142,7 @@ My mission is to transform complex, raw datasets into **AI-powered, actionable s
 | 🔭 | Building Gen AI & LLM Apps |
 | 🌱 | Learning RAG & Fine-Tuning |
 | 💬 | Ask me about Data Science |
-| 💡 | 15,264+ GitHub Contributions |
+| 💡 | 20,264+ GitHub Contributions |
 | 🏆 | LinkedIn Top Data Science Voice |
 | 📧 | abhiydv23096@gmail.com |
 | 🌐 | [Portfolio](https://abhi-yadav.vercel.app/) |
@@ -227,10 +227,10 @@ My mission is to transform complex, raw datasets into **AI-powered, actionable s
 ║  Skill                    ║  Level                   Score      ║
 ╠═══════════════════════════╬══════════════════════════════════════╣
 ║  Machine Learning         ║  ████████████████████  Expert  95% ║
-║  Data Analysis & EDA      ║  ████████████████████  Expert  95% ║
-║  Deep Learning            ║  ██████████████████░░  Adv.    90% ║
+║  Data Analysis & EDA      ║  ████████████████████  Expert  90% ║
+║  Deep Learning            ║  ██████████████████░░  Adv.    80% ║
 ║  NLP & Text Mining        ║  ██████████████████░░  Adv.    88% ║
-║  Data Visualization       ║  ███████████████████░  Expert  92% ║
+║  Data Visualization       ║  ███████████████████░  Expert  90% ║
 ║  Generative AI / LLMs     ║  █████████████████░░░  Adv.    85% ║
 ║  RAG Pipelines            ║  ████████████████░░░░  Int+    80% ║
 ║  LLM Fine-Tuning          ║  ███████████████░░░░░  Int+    75% ║
