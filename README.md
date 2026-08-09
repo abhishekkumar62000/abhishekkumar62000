@@ -36,7 +36,7 @@
 <img src="https://komarev.com/ghpvc/?username=abhishekkumar62000&label=👁️+Profile+Views&color=00ACC1&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/abhishekkumar62000?label=Followers&style=for-the-badge&logo=github&color=181717" />
 <img src="https://img.shields.io/github/stars/abhishekkumar62000?label=Total%20Stars&style=for-the-badge&logo=github&color=FFD700" />
-<img src="https://img.shields.io/badge/Total_Contributions-15264+-brightgreen?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Total_Contributions-20264+-brightgreen?style=for-the-badge&logo=github" />
 
 </div>
 
