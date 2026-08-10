@@ -1,7 +1,19 @@
 <div align="center">  
 
 <!-- ANIMATED HEADER --> 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Kumar&fontSize=70&fontColor=fff&fontAlignY=38&desc=🤖%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Health%2BTech%20Entrepreneur%20%7C%20Startup%20Founder%20%7C%20India%20🇮🇳&descAlignY=60&descSize=18&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Kumar&fontSize=70&fontColor=fff&fontAlignY=38&desc=🤖%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Health%2BTech%20Entrepreneur%20%7C%20Startup%20Founder%20%7C%20🇮🇳%20India&descAlignY=60&descSize=18&animation=twinkling" />
+
+<!-- 🇮🇳 Indian Tricolor Animated Accent -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF9933&center=true&vCenter=true&width=850&lines=🇮🇳+Building+India's+Next+Generation+AI+%26+HealthTech+Solutions;🤖+AI+Engineer+%7C+Data+Scientist+%7C+Health%2BTech+Entrepreneur;🚀+Startup+Founder+%7C+Innovating+with+AI+%26+Technology;💚+Technology+for+Healthcare%2C+Impact+%26+Innovation" alt="Typing SVG" />
+</p>
+
+<!-- Tricolor Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=8&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=8&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=8&section=header" width="100%"/>
+</p>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
