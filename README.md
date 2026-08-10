@@ -1,10 +1,6 @@
-<img width="2075" height="758" alt="github linkedin profile" src="https://github.com/user-attachments/assets/8edd48f3-a7b3-4e17-a813-ab1ea1e0bad4" />
+<img width="2075" height="758" alt="Github readme" src="https://github.com/user-attachments/assets/ce3c8bfb-498e-410a-958b-05e78ab64445" />
 
-
-<div align="center">  
-
-<!-- ANIMATED HEADER --> 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Kumar&fontSize=70&fontColor=fff&fontAlignY=38&desc=🤖%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Health%2BTech%20Entrepreneur%20%7C%20Startup%20Founder%20%7C%20🇮🇳%20India&descAlignY=60&descSize=18&animation=twinkling" />
+<div align="center">
 
 <!-- 🇮🇳 Indian Tricolor Animated Accent -->
 <p align="center">
