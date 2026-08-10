@@ -1,3 +1,6 @@
+<img width="2075" height="758" alt="github linkedin profile" src="https://github.com/user-attachments/assets/8edd48f3-a7b3-4e17-a813-ab1ea1e0bad4" />
+
+
 <div align="center">  
 
 <!-- ANIMATED HEADER --> 
