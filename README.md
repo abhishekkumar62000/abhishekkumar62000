@@ -66,14 +66,70 @@
 
 ## 🧬 The Code Behind the Person
 
-<p align="right">
-  <img
-    src="./Founder%20Sehaat%20Saathi.jpeg"
-    alt="Abhishek Yadav — Founder of Sehaat Saathi"
-    width="360"
-    style="max-width:100%; height:auto; border-radius:16px;"
-  />
+<table>
+<tr>
+<td width="38%" align="center">
+
+<img src="./Founder%20Sehaat%20Saathi.jpeg"
+     alt="Abhishek Yadav — Founder of Sehaat Saathi"
+     width="280"/>
+
+<br>
+
+<strong>🚀 Founder • AI Engineer • LLM Builder</strong>
+
+</td>
+
+<td width="62%">
+
+<h3>👋 Hi, I'm Abhishek Yadav</h3>
+
+<p>
+<strong>AI / LLM Engineer</strong> building practical
+AI products, intelligent agents and data-driven solutions.
 </p>
+
+<p>
+📍 <strong>Bihar, India 🇮🇳</strong><br>
+🧬 <strong>Founder — Sehaat Saathi</strong><br>
+🧠 <strong>AI • ML • GenAI • Data Science</strong><br>
+🌍 <strong>Building AI for real-world impact</strong>
+</p>
+
+<p>
+<a href="https://abhi-yadav.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-111827?style=for-the-badge"/>
+</a>
+
+<a href="mailto:abhiydv23096@gmail.com">
+<img src="https://img.shields.io/badge/📩_Email-Contact-111827?style=for-the-badge"/>
+</a>
+</p>
+
+<p>
+<strong>🔥 Currently Building</strong><br>
+RAG Pipelines • LLM Apps • AI Agents • Intelligent Automation
+</p>
+
+<p>
+<strong>⚡ Exploring</strong><br>
+LangGraph • Advanced NLP • Computer Vision • MLOps • Multimodal AI
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🧠 My Developer Philosophy
+
+> **Every dataset has a hidden story.**  
+> With curiosity + cutting-edge AI tools, I turn raw data into intelligent decisions. 🔍
+
+<br>
+
+### 🐍 The Developer Behind the Code
 
 ```python
 #!/usr/bin/env python3
@@ -82,38 +138,52 @@
 class AbhishekYadav:
     """
     AI Engineer | Data Scientist | LLM Builder
-    Bihar, India 🇮🇳  →  Changing the AI World 🌍
+    Bihar, India 🇮🇳 → Changing the AI World 🌍
     """
 
     def __init__(self):
-        self.name         = "Abhishek Yadav"
-        self.title        = "Aspiring AI / LLM Engineer"
-        self.linkedin     = "🔥 Top Data Science Voice"
-        self.location     = "Bihar, India 🇮🇳"
-        self.portfolio    = "https://abhi-yadav.vercel.app/"
-        self.email        = "abhiydv23096@gmail.com"
-        self.open_to      = ["Freelance", "Collaborations", "Research"]
-        self.superpower   = "Turning raw data → AI-powered decisions 💡"
+        self.name = "Abhishek Yadav"
+        self.title = "Aspiring AI / LLM Engineer"
+        self.location = "Bihar, India 🇮🇳"
+
+        self.portfolio = "https://abhi-yadav.vercel.app/"
+        self.email = "abhiydv23096@gmail.com"
+
+        self.open_to = [
+            "Freelance",
+            "Collaborations",
+            "Research"
+        ]
+
+        self.superpower = (
+            "Turning raw data → "
+            "AI-powered decisions 💡"
+        )
 
     def current_focus(self):
+
         return {
             "building": [
                 "RAG Pipelines",
-                "LLM Fine-Tuning Apps"
+                "LLM Fine-Tuning Apps",
+                "AI Agents"
             ],
+
             "learning": [
                 "Advanced NLP",
                 "Computer Vision",
                 "MLOps"
             ],
+
             "exploring": [
                 "Agentic AI",
                 "LangGraph",
                 "Multimodal LLMs"
-            ],
+            ]
         }
 
     def tech_philosophy(self):
+
         return (
             "Every dataset has a hidden story. "
             "With curiosity + cutting-edge tools, "
@@ -121,22 +191,20 @@ class AbhishekYadav:
         )
 
     def fun_facts(self):
+
         return [
             "☕ Powered by chai and Python",
             "📊 Obsessed with clean visualizations",
             "🧠 Thinks in tensors, speaks in insights",
-            "🌙 Best code written after midnight",
+            "🌙 Best code written after midnight"
         ]
 
 
 if __name__ == "__main__":
+
     me = AbhishekYadav()
+
     print(me.tech_philosophy())
-```
-
-<br clear="right"/>
-
-
 ---
 
 ## 🚀 About Me — Full Story
