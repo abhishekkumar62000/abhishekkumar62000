@@ -66,7 +66,14 @@
 
 ## 🧬 The Code Behind the Person
 
-<img align="right" alt="Founder Sehaat Saathi" width="360" src="./Founder%20Sehaat%20Saathi.jpeg"/>
+<p align="right">
+  <img
+    src="./Founder%20Sehaat%20Saathi.jpeg"
+    alt="Abhishek Yadav — Founder of Sehaat Saathi"
+    width="360"
+    style="max-width:100%; height:auto; border-radius:16px;"
+  />
+</p>
 
 ```python
 #!/usr/bin/env python3
@@ -90,9 +97,20 @@ class AbhishekYadav:
 
     def current_focus(self):
         return {
-            "building"  : ["RAG Pipelines", "LLM Fine-Tuning Apps"],
-            "learning"  : ["Advanced NLP", "Computer Vision", "MLOps"],
-            "exploring" : ["Agentic AI", "LangGraph", "Multimodal LLMs"],
+            "building": [
+                "RAG Pipelines",
+                "LLM Fine-Tuning Apps"
+            ],
+            "learning": [
+                "Advanced NLP",
+                "Computer Vision",
+                "MLOps"
+            ],
+            "exploring": [
+                "Agentic AI",
+                "LangGraph",
+                "Multimodal LLMs"
+            ],
         }
 
     def tech_philosophy(self):
@@ -110,12 +128,14 @@ class AbhishekYadav:
             "🌙 Best code written after midnight",
         ]
 
+
 if __name__ == "__main__":
     me = AbhishekYadav()
     print(me.tech_philosophy())
 ```
 
 <br clear="right"/>
+
 
 ---
 
