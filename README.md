@@ -66,7 +66,7 @@
 
 ## 🧬 The Code Behind the Person
 
-<img align="right" alt="AI Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
+<img align="right" alt="Founder Sehaat Saathi" width="360" src="./Founder%20Sehaat%20Saathi.jpeg"/>
 
 ```python
 #!/usr/bin/env python3
