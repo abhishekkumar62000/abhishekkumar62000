@@ -458,7 +458,7 @@ graph LR
 
 ---
 
-### 🏢 01 — TechSeva IT Solutions Agency
+### 🏢 01 — TechSeva IT Solutions Agency:- SoftWare Comapany
 
 <table>
 <tr>
@@ -519,7 +519,7 @@ graph LR
 
 ---
 
-### 🏥 02 — Sehaat Saathi HealthCare Platform
+### 🏥 02 — Sehaat Saathi HealthCare Software Company
 
 <table>
 <tr>
@@ -559,7 +559,7 @@ graph LR
 
 > **India's 1st AI-Powered Virtual HealthCare Platform** 🇮🇳
 
-**Sehaat Saathi** is my most ambitious project — a platform designed to make **quality, affordable, and accessible healthcare** available to every Indian, especially those in remote and underserved areas.
+**Sehaat Saathi** is a No1 HealthTech Software Compant🧑‍💻🎯 Sehaat Saathi is My Most Ambitious Project — a Platform Designed to Make **Quality, Affordable, and Accessible Healthcare** Available to every Indian, Especially those in Remote and Underserved areas.
 
 **🤖 AI-Powered Features:**
 
@@ -569,6 +569,7 @@ graph LR
 | 🔬 **AI Symptom Checker** | Instant diagnosis & health assessment |
 | 💊 **Medicine Suggestions** | Smart drug recommendations + First-Aid tips |
 | 🚑 **Emergency Ambulance** | One-tap ambulance booking |
+| 🩸 **Emergency Blood Bank🩸** | One-tap Blood Bank Services |
 | 📹 **Video Call Consultations** | Instant online doctor consultations |
 | 📅 **Offline Slot Booking** | Schedule with any specialist doctor |
 | 🧪 **Lab Test Booking** | Book tests from home |
@@ -588,6 +589,104 @@ graph LR
 </td>
 </tr>
 </table>
+
+
+<!-- ==================== EDUSCHOOL-SAATHI ==================== -->
+
+<h2 align="center">🏫 Founder & CEO — EduSchool-Saathi</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-blue?style=for-the-badge" alt="Founder and CEO" />
+  <img src="https://img.shields.io/badge/Industry-EdTech-16A34A?style=for-the-badge" alt="EdTech" />
+  <img src="https://img.shields.io/badge/Focus-School%20ERP-orange?style=for-the-badge" alt="School ERP" />
+  <img src="https://img.shields.io/badge/Location-Madhubani%2C%20Bihar-red?style=for-the-badge" alt="Madhubani Bihar India" />
+</p>
+
+<p align="center">
+  <a href="https://eduschoolsaathi.org">
+    <img src="https://img.shields.io/badge/Official_Website-eduschoolsaathi.org-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="EduSchool-Saathi Official Website" />
+  </a>
+  <a href="https://eduschool-saathi.vercel.app">
+    <img src="https://img.shields.io/badge/Visit_Web_App-EduSchool--Saathi-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="EduSchool-Saathi Web App" />
+  </a>
+</p>
+
+---
+
+### 🚀 About EduSchool-Saathi Software Company
+
+**EduSchool-Saathi — Har School Ka Saathi** is an EdTech Software Company Initiative Founded by **Abhishek Kumar**, an AI/ML Engineer and HealthTech & EdTech Entrepreneur, based in **Bara Bazar, Madhubani, Bihar, India**.
+
+Our mission is to simplify school administration and support the digital transformation of educational institutions through smart, accessible, and technology-driven solutions.  Bihar No1 School Management Software Company.
+
+EduSchool-Saathi focuses on **School Management Software, School ERP Software, and Digital School Management Systems** designed to connect school administrators, teachers, students, and parents on one platform.
+
+We aim to help schools organize their daily academic and administrative operations, reduce manual paperwork, and build a more connected educational environment.
+
+### 💡 Our Digital School Management Solutions
+
+- 🎓 **Student Management** — Student profiles, admissions, and academic records.
+- 📅 **Attendance Management** — Digital student and teacher attendance.
+- 💳 **Fee Management** — Fee records, payment tracking, and pending dues.
+- 📝 **Examination & Results** — Examination records, marks, and results.
+- 📚 **Homework & Timetable** — Academic schedules and assignment management.
+- 👨‍🏫 **Teacher & Staff Management** — Organized staff information and school operations.
+- 👨‍👩‍👧 **Parent-Teacher Communication** — School notices and academic updates.
+- 📊 **Reports & Analytics** — Organized information to support school administration.
+
+*Feature availability may depend on the current product version and subscription plan.*
+
+### 🎯 Our Mission
+
+To make affordable and accessible school management technology available to educational institutions, especially in rural and semi-urban communities across Bihar.
+
+### 🌍 Our Vision
+
+To build a digitally connected education ecosystem where schools, teachers, students, and parents can manage and experience education more efficiently.
+
+### 👨‍💻 Founder & CEO — Abhishek Kumar
+
+I am **Abhishek Kumar**, Founder & CEO of EduSchool-Saathi, an AI/ML Engineer and HealthTech & EdTech Entrepreneur passionate about building practical technology solutions for real-world challenges.
+
+My interests include Artificial Intelligence, Machine Learning, Generative AI, Large Language Models (LLMs), and SaaS product development.
+
+Through EduSchool-Saathi, I aim to contribute to the digital transformation of schools, starting from Madhubani and expanding our vision across Bihar and India.
+
+I believe technology should not be limited to metropolitan cities. Schools in smaller towns and rural communities also deserve access to useful, affordable, and modern digital tools.
+
+### 📍 Company Information
+
+- **Company / Brand:** EduSchool-Saathi
+- **Founder & CEO:** Abhishek Kumar
+- **Industry:** Education Technology (EdTech) / Software
+- **Product Category:** School Management Software & School ERP
+- **Location:** Bara Bazar, Madhubani, Bihar, India
+- **Official Organization Website:** https://eduschoolsaathi.org
+- **Web Application:** https://eduschool-saathi.vercel.app
+
+### 🔎 Explore EduSchool-Saathi
+
+<p align="center">
+  <a href="https://eduschoolsaathi.org">
+    <img src="https://img.shields.io/badge/🌐_Official_Website-Visit_Now-2563EB?style=for-the-badge" alt="Visit Official Website" />
+  </a>
+  <a href="https://eduschool-saathi.vercel.app">
+    <img src="https://img.shields.io/badge/💻_Web_Application-Explore-16A34A?style=for-the-badge" alt="Explore Web Application" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>EduSchool-Saathi — Har School Ka Saathi 🏫</b>
+  <br />
+  <i>Empowering Schools. Connecting Education. Building the Future.</i>
+</p>
+
+<!-- ================= END EDUSCHOOL-SAATHI ================= -->
+
+
+
 
 ---
 
