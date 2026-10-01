@@ -591,106 +591,74 @@ graph LR
 </table>
 
 
-<!-- ==================== EDUSCHOOL-SAATHI ==================== -->
+### 🏥 03-Unit — EduSchool Saathi Software Company:-
 
-<h2 align="center">🏫 Founder & CEO — EduSchool-Saathi</h2>
+<!-- EduSchool-Saathi | Company Profile -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-blue?style=for-the-badge" alt="Founder and CEO" />
-  <img src="https://img.shields.io/badge/Industry-EdTech-16A34A?style=for-the-badge" alt="EdTech" />
-  <img src="https://img.shields.io/badge/Focus-School%20ERP-orange?style=for-the-badge" alt="School ERP" />
-  <img src="https://img.shields.io/badge/Location-Madhubani%2C%20Bihar-red?style=for-the-badge" alt="Madhubani Bihar India" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://eduschoolsaathi.org">
-    <img src="https://img.shields.io/badge/Official_Website-eduschoolsaathi.org-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="EduSchool-Saathi Official Website" />
-  </a>
-  <a href="https://eduschool-saathi.vercel.app">
-    <img src="https://img.shields.io/badge/Visit_Web_App-EduSchool--Saathi-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="EduSchool-Saathi Web App" />
-  </a>
-</p>
+# 🏫 EduSchool-Saathi
 
----
+### *Har School Ka Saathi* 🚀
 
-### 🚀 About EduSchool-Saathi Software Company
+**Smart School Management Software & School ERP Solutions**
 
-**EduSchool-Saathi — Har School Ka Saathi** is an EdTech Software Company Initiative Founded by **Abhishek Kumar**, an AI/ML Engineer and HealthTech & EdTech Entrepreneur, based in **Bara Bazar, Madhubani, Bihar, India**.
+Empowering schools with technology-driven solutions for smarter, simpler, and more connected school management.
 
-Our mission is to simplify school administration and support the digital transformation of educational institutions through smart, accessible, and technology-driven solutions.  Bihar No1 School Management Software Company.
+[![Official Website](https://img.shields.io/badge/Official_Website-eduschoolsaathi.org-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eduschoolsaathi.org)
+[![Web App](https://img.shields.io/badge/Explore_Web_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://eduschool-saathi.vercel.app)
 
-EduSchool-Saathi focuses on **School Management Software, School ERP Software, and Digital School Management Systems** designed to connect school administrators, teachers, students, and parents on one platform.
+📍 **Madhubani, Bihar, India**
 
-We aim to help schools organize their daily academic and administrative operations, reduce manual paperwork, and build a more connected educational environment.
-
-### 💡 Our Digital School Management Solutions
-
-- 🎓 **Student Management** — Student profiles, admissions, and academic records.
-- 📅 **Attendance Management** — Digital student and teacher attendance.
-- 💳 **Fee Management** — Fee records, payment tracking, and pending dues.
-- 📝 **Examination & Results** — Examination records, marks, and results.
-- 📚 **Homework & Timetable** — Academic schedules and assignment management.
-- 👨‍🏫 **Teacher & Staff Management** — Organized staff information and school operations.
-- 👨‍👩‍👧 **Parent-Teacher Communication** — School notices and academic updates.
-- 📊 **Reports & Analytics** — Organized information to support school administration.
-
-*Feature availability may depend on the current product version and subscription plan.*
-
-### 🎯 Our Mission
-
-To make affordable and accessible school management technology available to educational institutions, especially in rural and semi-urban communities across Bihar.
-
-### 🌍 Our Vision
-
-To build a digitally connected education ecosystem where schools, teachers, students, and parents can manage and experience education more efficiently.
-
-### 👨‍💻 Founder & CEO — Abhishek Kumar
-
-I am **Abhishek Kumar**, Founder & CEO of EduSchool-Saathi, an AI/ML Engineer and HealthTech & EdTech Entrepreneur passionate about building practical technology solutions for real-world challenges.
-
-My interests include Artificial Intelligence, Machine Learning, Generative AI, Large Language Models (LLMs), and SaaS product development.
-
-Through EduSchool-Saathi, I aim to contribute to the digital transformation of schools, starting from Madhubani and expanding our vision across Bihar and India.
-
-I believe technology should not be limited to metropolitan cities. Schools in smaller towns and rural communities also deserve access to useful, affordable, and modern digital tools.
-
-### 📍 Company Information
-
-- **Company / Brand:** EduSchool-Saathi
-- **Founder & CEO:** Abhishek Kumar
-- **Industry:** Education Technology (EdTech) / Software
-- **Product Category:** School Management Software & School ERP
-- **Location:** Bara Bazar, Madhubani, Bihar, India
-- **Official Organization Website:** https://eduschoolsaathi.org
-- **Web Application:** https://eduschool-saathi.vercel.app
-
-### 🔎 Explore EduSchool-Saathi
-
-<p align="center">
-  <a href="https://eduschoolsaathi.org">
-    <img src="https://img.shields.io/badge/🌐_Official_Website-Visit_Now-2563EB?style=for-the-badge" alt="Visit Official Website" />
-  </a>
-  <a href="https://eduschool-saathi.vercel.app">
-    <img src="https://img.shields.io/badge/💻_Web_Application-Explore-16A34A?style=for-the-badge" alt="Explore Web Application" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <b>EduSchool-Saathi — Har School Ka Saathi 🏫</b>
-  <br />
-  <i>Empowering Schools. Connecting Education. Building the Future.</i>
-</p>
+## 🌟 About EduSchool-Saathi Software Company
 
-<!-- ================= END EDUSCHOOL-SAATHI ================= -->
+**EduSchool-Saathi** is an EdTech Software Company Initiative Focused on Simplifying School Administration through Digital **School Management Software and School ERP Solutions**.
 
+Our Platform Aims to Help Schools Manage Student Records, Attendance, Fees, Examinations, Homework, and Parent-Teacher Communication in One Connected Digital Ecosystem.
 
+🎯 **Our Mission:** To make digital school management more accessible and affordable for schools, starting from Bihar.
+
+🔭 **Our Vision:** To build a smarter, digitally empowered education ecosystem for schools, teachers, students, and parents.
+
+## 👨‍💻 Founder & CEO
+
+**Abhishek Kumar** — Founder & CEO of EduSchool-Saathi | AI/ML Engineer | HealthTech & EdTech Entrepreneur.
+
+Passionate about building technology-driven solutions that solve real-world problems and contribute to the digital transformation of education.
+
+## 🔑 What We Focus On
+
+- 🏫 School Management Software
+- 📊 School ERP & Student Information Management
+- 📅 Attendance, Fees & Examination Management
+- 📚 Homework & Academic Records
+- 👨‍👩‍👧 Parent-Teacher Communication
+- 💻 Digital Transformation for Schools
+
+---
+
+<div align="center">
+
+### 🌐 Connect with EduSchool-Saathi
+
+**Official Website:** [eduschoolsaathi.org](https://eduschoolsaathi.org)
+
+**Web Application:** [eduschool-saathi.vercel.app](https://eduschool-saathi.vercel.app)
+
+### 💚 EduSchool-Saathi — Har School Ka Saathi!
+
+*Building a smarter future for education, one school at a time.*
+
+</div>
 
 
 ---
 
-### 🌱 03 — Building Bihar Foundation (NGO):- Board Member
+### 🌱 04 — Building Bihar Foundation (NGO):- Board Member
 *Operate From USA America,UK*   Me as a Core Team Member of NGO
 
 <table>
